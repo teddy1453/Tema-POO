@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------------------------------------
+| Test Case | Description                                             					|
+|-----------|-------------------------------------------------------------------------------------------|
+| TC-001    | Create a FLOW that have at least the steps TITLE, TEXT INPUT, TEXT.       		|
+| TC-002    | Run the previous test.           								|
+| TC-003    | Create a FLOW that have the steps TITLE, NUMBER INPUT, NUMBER INPUT,  CALCULUS.        	|
+| TC-004    | Create a FLOW that have TEXT FILE INPUT.     						|
+| TC-005    | Create a FLOW that have CSV FILE INPUT. 							|
+| TC-006    | Run a flow which have a TEXT FILE INPUT step to create a file named test.txt		|
+| TC-007    | Run a flow which have a CSV FILE INPUT step to create a file named data.csv	        |
+| TC-008    | Create a flow that contains DISPLAY step						        |
+| TC-009    | Run a flow that contains DISPLAY step to display a file text (within "fisiere" director). |
+| TC-010    | Add an OUTPUT step with valid file name, title, and description.                          |
+| TC-011    | Signal the end of a flow with an END step.              					|
+| TC-012    | Use OUTPUT step by running a flow.		      					|
+| TC-013    | Enter incorrect operator in calculus step               					|
+| TC-014    | Create a flow with multiple steps                       					|
+| TC-015    | Run a flow and complete all steps                       					|
+| TC-016    | Run a flow and skip a step                              					|
+| TC-017    | View analytics for a flow                               					|	
+| TC-018    | Delete a flow                                           					|
+| TC-019    | Create a flow with an error screen                      					|
+| TC-020    | Check timestamp for flow creation                       					|
+---------------------------------------------------------------------------------------------------------

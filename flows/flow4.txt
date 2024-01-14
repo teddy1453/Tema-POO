@@ -1,0 +1,16 @@
+flow4
+12
+TitleStep
+titlu
+subtitly
+TextStep
+titlu
+copy
+TextInputStep
+descriere
+TextFileInputStep
+fisier txt
+DisplayStep
+teste
+EndStep
+End step
